@@ -8,4 +8,4 @@ title: "Welcome to our second slide!"
 Use the left arrow to go back!
 
 Use the up arrow to go forward?
-Chewbaca gets a medal and Artoo beebs with happiness.
+Chewbacca gets a medal and Artoo beeps with happiness.
